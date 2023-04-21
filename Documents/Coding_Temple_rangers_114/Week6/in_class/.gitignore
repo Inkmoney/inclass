@@ -1,4 +1,4 @@
 .env
 ranger_env
-migration
+migrations
 __pycache__
